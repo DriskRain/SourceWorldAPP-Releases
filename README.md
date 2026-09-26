@@ -9,7 +9,7 @@
 3. 在 Android 系统中允许当前文件管理器或浏览器“安装未知应用”，然后打开 APK 完成安装。
 4. 从旧版本升级时，无需卸载应用；但安装包必须使用相同包名、相同正式签名证书，并具有更高的 `versionCode`。
 
-当前正式版本为 `1.0.3`，正式包名为 `com.driskrain.sourceworldapp`。
+当前正式版本为 `1.0.4`，正式包名为 `com.driskrain.sourceworldapp`。
 
 ## 官方发布渠道
 
@@ -28,7 +28,7 @@
 
 源世界不设置账号，不向开发者或自有服务器收集、上传、出售用户的个人信息与使用数据。用户选中的文件、订阅源、收藏、搜索历史及阅读/播放进度只在设备本地处理；用户主动访问第三方订阅源时，对方网站仍会收到完成连接所需的网络信息。完整边界见 [隐私说明](PRIVACY.md)。
 
-最新版本说明见 [`RELEASE_NOTES_v1.0.3.md`](RELEASE_NOTES_v1.0.3.md)，历史说明保留在 [`RELEASE_NOTES_v1.0.2.md`](RELEASE_NOTES_v1.0.2.md)、[`RELEASE_NOTES_v1.0.1.md`](RELEASE_NOTES_v1.0.1.md) 与 [`RELEASE_NOTES_v1.0.0.md`](RELEASE_NOTES_v1.0.0.md)。每个版本的 APK 与 `SHA256SUMS.txt` 均作为 GitHub/Gitee 发行版附件提供，两个平台使用完全相同的文件。
+最新版本说明见 [`RELEASE_NOTES_v1.0.4.md`](RELEASE_NOTES_v1.0.4.md)，历史说明保留在 [`RELEASE_NOTES_v1.0.3.md`](RELEASE_NOTES_v1.0.3.md)、 [`RELEASE_NOTES_v1.0.2.md`](RELEASE_NOTES_v1.0.2.md)、[`RELEASE_NOTES_v1.0.1.md`](RELEASE_NOTES_v1.0.1.md) 与 [`RELEASE_NOTES_v1.0.0.md`](RELEASE_NOTES_v1.0.0.md)。每个版本的 APK 与 `SHA256SUMS.txt` 均作为 GitHub/Gitee 发行版附件提供，两个平台使用完全相同的文件。
 
 ## 联系与反馈
 
