@@ -1,0 +1,13 @@
+# Only public documentation/assets belong in this repository. APKs are Release attachments.
+*.apk
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+release-keystore.properties
+private/
+backups/
+*-password*
+build/
+diagnostics/
